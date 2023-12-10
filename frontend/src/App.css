@@ -1,0 +1,17 @@
+.controlsContainer{
+  display: flex;
+  align-items: 'center';  
+  gap: 10px;           
+  justify-content: 'space-between';
+  margin-bottom: '20px';
+}
+
+.searchBar{
+  padding: '8px';
+  margin-right: '10px';
+}
+
+.filters{
+  padding: '8px';
+  margin-right: '10px';
+}
